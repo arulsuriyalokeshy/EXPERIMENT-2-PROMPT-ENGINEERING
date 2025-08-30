@@ -49,22 +49,8 @@ We will analyze **broad/unstructured prompts** versus **clear/refined prompts** 
 
 ### **Visual Representation (Mind Map)**
 
-```mermaid
-mindmap
-  root((Prompting Patterns))
-    Zero-Shot
-      Broad Prompts
-      Refined Prompts
-    Few-Shot
-      Example-based
-    Chain-of-Thought
-      Stepwise Reasoning
-    Role-Based
-      Persona-Driven
-    Instruction + Context
-      Task-Specific
-      Data-Constrained
-```
+<img width="1112" height="503" alt="image" src="https://github.com/user-attachments/assets/876c3045-2ce2-4d49-b6f8-eff8f261e58c" />
+
 ## RESULT:
 Broad/unstructured prompts → Often lead to vague, general, or incomplete responses.<br>
 Clear/refined prompts → Produce more accurate, structured, and context-relevant outputs.<br>
